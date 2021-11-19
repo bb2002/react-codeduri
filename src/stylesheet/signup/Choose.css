@@ -1,0 +1,26 @@
+#choose-header {
+  margin-top: 45px;
+}
+
+#choose-header>h1 {
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+}
+
+#choose-box-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+#choose-box1 {
+  width: 310px;
+  margin: 100px;
+}
+
+#choose-box2 {
+  width: 310px;
+  margin: 100px;
+}

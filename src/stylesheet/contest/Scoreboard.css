@@ -1,0 +1,60 @@
+#table-container {
+    overflow-x: scroll;
+}
+
+.color-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.color-info > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+#badge {
+    width: 14px;
+    height: 14px;
+    border-radius: 16px;
+    margin-right: 8px;
+}
+
+.scoreboard-table {
+    margin-top: 32px;
+}
+
+.scoreboard-table th {
+    min-width: 150px;
+    background-color: #F0F8FF;
+    text-align: center;
+    color: #1E1E1E;
+    height: 50px;
+    font-size: 9pt;
+}
+
+.scoreboard-table td {
+    text-align: center;
+    min-width: 150px;
+    height: 56px
+}
+
+.scoreboard-table td:first-child {
+    text-align: left;
+}
+
+.scoreboard-table td:first-child p {
+    margin: 0 0 0 8px;
+    padding: 0;
+}
+
+.scoreboard-table td:first-child p:first-child {
+    color: #5a5a5a;
+    font-weight: bold;
+}
+
+.scoreboard-table td:first-child p:last-child {
+    color: #adadad;
+    font-size: 9pt;
+}

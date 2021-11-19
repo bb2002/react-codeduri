@@ -1,0 +1,43 @@
+#board-read-container {
+    margin-top: 32px;
+}
+
+#board-read-container > h2 {
+    color: #313131;
+}
+
+#board-read-info {
+    padding-bottom: 32px;
+}
+
+#board-read-info > b {
+    border-right: 0.5px solid #bdbdbd;
+    padding-right: 8px;
+    font-size: 0.8rem;
+    color: #797979;
+}
+
+#board-read-info > span {
+    padding-left: 8px;
+    font-size: 0.8rem;
+    color: #797979;
+}
+
+#board-read-content {
+    border-bottom: 0.5px solid #ececec;
+    border-top: 0.5px solid #ececec;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+#board-file-content {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+#board-read-tail {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}

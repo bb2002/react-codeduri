@@ -1,0 +1,15 @@
+.text-badge {
+    width: 70px;
+    height: 20px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-badge > p {
+    color: white;
+    font-size: 0.7rem;
+    padding: 0;
+    margin: 0;
+}

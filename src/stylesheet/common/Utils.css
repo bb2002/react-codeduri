@@ -1,0 +1,36 @@
+.vertical-divider-bar {
+    width: 0.5px;
+    background-color: #F0F0F0;
+    margin: 0px;
+    padding: 0px;
+}
+
+.search-box {
+    outline: none;
+    border-color: #00000000;
+    font-size: 0.75rem;
+    width: 350px;
+    box-shadow: none;
+}
+
+.search-box:hover {
+    outline: none;
+    box-shadow: none;
+    border-color: #00000000;
+}
+
+.search-box:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #00000000;
+}
+
+.search-box-notice {
+    
+    border-color: #00000000;
+    font-size: 0.75rem;
+    width: 1285px;
+    margin: 10px;
+    border-left: 1px solid #BABABA;
+    border-right: 1px solid #BABABA;
+}

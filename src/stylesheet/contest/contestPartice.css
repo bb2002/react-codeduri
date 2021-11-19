@@ -1,0 +1,19 @@
+.particeOption {
+    width: 10%;
+}
+
+.particeSearch {
+    width: 90%;
+    margin-Bottom: 50px;
+}
+
+@media screen and (max-width:992px) {
+    .particeOption {
+        width: 20%;
+    }
+
+    .particeSearch {
+        width: 80%;
+        margin-Bottom: 50px;
+    }
+}

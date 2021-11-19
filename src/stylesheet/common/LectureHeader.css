@@ -1,0 +1,51 @@
+.site-layout {
+  display: flex;
+  background-color: #001529;
+  justify-content: center;
+}
+
+#lecture-image {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 16px;
+  background-color: white;
+}
+
+#lecture-header-right {
+  margin-left: 50px;
+}
+
+#lecture-item-box {
+  display: flex;
+  color: white;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#lecture-item-box>p {
+  font-size: 0.75rem;
+  display: flex;
+  padding: 0;
+  margin: 0 10px 0 4px;
+  font-weight: bold;
+}
+
+#lecture-header-right>h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: #FFFFFF;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#lecture-header-right>h2 {
+  font-family: NanumGothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: #9C9C9C;
+  margin-bottom: 20px;
+}

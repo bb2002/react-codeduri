@@ -1,0 +1,10 @@
+#badge-image {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50px;
+  margin: 10px 5px;
+  width: 55px;
+  height: 55px;
+  background-size: 35px 35px;
+}

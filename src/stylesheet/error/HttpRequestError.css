@@ -1,0 +1,26 @@
+.http-error-container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 32px;
+}
+
+.http-error-container > div > img {
+    width: 150px;
+}
+
+.http-error-container > div {
+    text-align: center;
+}
+
+.http-error-container h2 {
+    padding: 16px 64px;
+    font-weight: bold;
+    border-bottom: 0.5px solid #bcbcbc;
+}
+
+.http-error-container p {
+    font-size: 1rem;
+}
+

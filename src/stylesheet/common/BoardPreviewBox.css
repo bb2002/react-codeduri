@@ -1,0 +1,21 @@
+.preview-box-container {
+    width: 50%;
+    height: 250px;
+}
+
+.preview-box-content {
+    width: 100%;
+}
+
+.preview-box-content-title {
+    font-size: 0.85rem;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+.preview-box-content-date {
+    font-size: 0.75rem;
+    text-align: right;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}

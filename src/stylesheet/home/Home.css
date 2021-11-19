@@ -1,0 +1,25 @@
+#home-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+}
+
+/* Display size > 768px */
+#home-preview-board {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#home-preview-board-item {
+    width: 48%;
+}
+
+/* Display size < 768px */
+@media screen and (max-width: 768px) {
+    #home-preview-board {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+}

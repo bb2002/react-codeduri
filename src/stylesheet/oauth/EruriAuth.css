@@ -1,0 +1,10 @@
+.login-container {
+    width: 50%;
+    min-width: 350px;
+    margin: 128px auto;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+}

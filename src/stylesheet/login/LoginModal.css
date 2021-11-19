@@ -1,0 +1,39 @@
+#login-modal-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#login-modal-container p {
+    font-size: 0.8rem;
+    color: gray;
+}
+
+#login-modal-container input {
+    font-size: 0.8rem;
+}
+
+#login-modal-container button {
+    width: 100%;
+}
+
+#login-error-message {
+    color: red !important;
+}
+
+#login-modal-footer {
+    width: 84%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+#login-modal-footer button {
+    margin: 0;
+    padding: 0;
+    width: 33.33333%;
+    border-radius: 0;
+    font-size: 0.8rem;
+}

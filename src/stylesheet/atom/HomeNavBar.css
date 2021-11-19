@@ -1,0 +1,11 @@
+#nav-container {
+    background-color: #00000000;
+}
+
+#menu-container {
+    background-color: #00000000;
+}
+
+#menu-container > li > span {
+    color: black;
+}

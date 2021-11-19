@@ -1,0 +1,18 @@
+#board-writer-title {
+    outline: none;
+    border-color: #00000000;
+    font-size: 1.75rem;
+    box-shadow: none;
+}
+
+#board-writer-title:hover {
+    outline: none;
+    box-shadow: none;
+    border-color: #00000000;
+}
+
+#board-writer-title:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #00000000;
+}

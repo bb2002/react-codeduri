@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    background-color: #001529;
+}
+
+#menu-container {
+    border: 0;
+}
+
+#menu-container>li {
+    color: white;
+    width: 150px;
+    text-align: center;
+}

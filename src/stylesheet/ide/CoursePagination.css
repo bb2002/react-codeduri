@@ -1,0 +1,19 @@
+#course-pagination-container {
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+}
+
+#course-pagination-container>button {
+    width: 150px;
+    color: white;
+    border: 1px solid #1890FF;
+    font-size: 0.75rem;
+}
+
+#course-pagination-container>p {
+    margin: 0;
+    padding: 0 128px;
+    color: white;
+}
